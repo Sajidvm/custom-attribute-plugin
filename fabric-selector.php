@@ -3,7 +3,7 @@
  * Plugin Name: Custom Attribute Selector for WooCommerce
  * Description: Replace default attribute swatches with an interactive slide-out sidebar
  * Version: 1.0.1
- * Author: kiddo
+ * Author: SDkid
  */
 
 if (!defined('ABSPATH')) exit;
@@ -262,4 +262,5 @@ class Fabric_Selector_Plugin {
 // Initialize
 add_action('plugins_loaded', function() {
     Fabric_Selector_Plugin::get_instance();
+
 });
