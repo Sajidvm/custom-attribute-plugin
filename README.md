@@ -45,4 +45,8 @@ Improves:
 - WooCommerce attributes (optional)
 - Elementor compatible
 
+## License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this plugin for personal or commercial projects.
 
