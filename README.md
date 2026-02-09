@@ -6,7 +6,6 @@ This component allows customers to quickly select attribute value types using a 
 
 Designed for better UX, faster selection, and mobile-friendly shopping.
 
----
 
 ## ✨ Features
 
@@ -20,7 +19,6 @@ Designed for better UX, faster selection, and mobile-friendly shopping.
 - Lightweight & fast
 - Works with WooCommerce / Shopify / custom stores
 
----
 
 ## 🖥️ UI Behavior
 
@@ -37,7 +35,6 @@ Improves:
 ✔ visual clarity  
 ✔ conversion rate  
 
----
 
 ## 🛠️ Tech Stack
 
