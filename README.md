@@ -30,6 +30,7 @@ Designed for better UX, faster selection, and mobile-friendly shopping.
 6. Drawer closes automatically
 
 Improves:
+
 ✔ usability  
 ✔ speed  
 ✔ visual clarity  
@@ -44,5 +45,4 @@ Improves:
 - WooCommerce attributes (optional)
 - Elementor compatible
 
----
 
