@@ -7,7 +7,7 @@ This component allows customers to quickly select attribute value types using a 
 Designed for better UX, faster selection, and mobile-friendly shopping.
 
 
-## ✨ Features
+## Features
 
 - Slide-in drawer (off-canvas panel)
 - Clean card-based fabric layout
@@ -20,7 +20,7 @@ Designed for better UX, faster selection, and mobile-friendly shopping.
 - Works with WooCommerce / Shopify / custom stores
 
 
-## 🖥️ UI Behavior
+## UI Behavior
 
 1. User clicks **Change Fabric**
 2. Right-side slider opens
@@ -37,7 +37,7 @@ Improves:
 ✔ conversion rate  
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3 / Flexbox
